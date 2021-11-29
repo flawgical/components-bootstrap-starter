@@ -1,0 +1,9 @@
+section.cards {
+    display: flex;
+    align-items: center;
+  }
+  
+  section.cards .card {
+    margin: 0 10px;
+  }
+  
